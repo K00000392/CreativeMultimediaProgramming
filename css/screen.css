@@ -174,12 +174,12 @@ section.main aside h3 a:hover {
     text-decoration: underline;
 }
 section.main aside .content.pink {
-    background-image: url(../img/Picture1.png);
+    background-image: url(../img/pinkest-pink.jpg);
     background-size: 200px 120px;
 }
 
 section.main aside .content.top-picks {
-    background-image: url(../img/detail.jpg);
+    background-image: url(../img/Picture1.png);
     background-size: 200px 120px;
 }
 section.main aside .content.fernard {
@@ -417,7 +417,7 @@ footer a:hover {
     .ads img {width:75%; margin-left: 130px;}   
     /* Section exhibitons */
     section.exhibitions img {width:100%;}
-   section.exhibitions article.news_pinkest {float:left; width:100%; padding:0 15px 0 0;} 
+   section.exhibitions article.news_pinkest {float:left; width:100%; padding:0 15px 10px 0;} 
    section.exhibitions article p {font-size: .9em; padding-right: 30px;}
    section.architecture article p {font-size: .9em; padding-right: 30px;}
      section.architecture article.news_pinkest {float:left; width:100%; padding:0 15px 0 0;} 
