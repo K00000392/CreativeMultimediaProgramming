@@ -19,7 +19,7 @@ body {
 
 h1 {
     margin:0 0 0 0;
-    font-size: 6em;
+    font-size: 4em;
     font-weight: 600;
     text-align: center;
     padding-top: 265px;
@@ -57,7 +57,7 @@ h4 {
     font-weight: 700;
 }
 p {
-    margin: 0 0 1em 0;
+    margin: 0 2 2em 0;
     padding: 0 0 .5em;
     line-height: 1.3em;
 }
@@ -412,7 +412,7 @@ footer a:hover {
    /* Header*/
     header{
         height:500px;}
-    h1 {font-size: 5.5em;padding-top: 220px; }
+    h1 {font-size: 3.5em;padding-top: 220px; }
     #source { font-size: 2em;}
     .ads img {width:75%; margin-left: 130px;}   
     /* Section exhibitons */
@@ -433,7 +433,7 @@ footer a:hover {
    header{
     height:373px; background: url(../img/Banner_870.jpg) no-repeat center bottom; position: relative;
 }
-    h1 {font-size: 4.9em;padding-top: 180px;}
+    h1 {font-size: 2.9em;padding-top: 180px;}
     h2{font-size: 1.4em;}
      #source { font-size: 1.9em;}
     .ads img {width:75%; margin-left: 100px;}   
@@ -458,7 +458,7 @@ footer a:hover {
     header{
     height:367px; background: url(../img/Banner_855.jpg) no-repeat center bottom; position: relative;
 }
-     h1 {font-size: 4.5em;}
+     h1 {font-size: 2.5em;}
     h2{font-size: 1.3em;}
    
     #source { font-size: 1.6em;}
@@ -472,7 +472,7 @@ footer a:hover {
 }
     
 @media screen and (max-width:710px) {
-     h1{font-size: 4.2em; padding-top: 120px;}
+     h1{font-size: 2.2em; padding-top: 120px;}
      #source { font-size: 1.1em;}
      header{
     height:305px; background: url(../img/Banner_710.jpg) no-repeat center bottom; position: relative;}
@@ -488,12 +488,12 @@ footer a:hover {
         width:100%;
         left:
     }
-    h1 {font-size: 3.8em;}
+    h1 {font-size: 2.2em;}
     h2{font-size: 1em;}
      #source { font-size: 1.3em;}
     .ads img {margin-left: 0px; padding: 0px; width:100%; }
     
-    h1{font-size: 4em; padding-top: 100px;}
+    h1{ padding-top: 100px;}
     #source { font-size: 1.4em;}
     h3 {margin-bottom: 0px;}
     a.btn {font-size: .9em;}
@@ -560,7 +560,7 @@ footer a:hover {
 }
 
 @media screen and (max-width:480px){
-     h1 {font-size: 3em;}
+     h1 {font-size: 2em;}
    
      #source { font-size: 1em;}
     ads {padding-left: 0px; margin-left: 0px;}
